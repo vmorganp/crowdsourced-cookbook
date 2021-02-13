@@ -1,5 +1,6 @@
 # Breakfast Potatoes
 this will make some diced breakfast potatoes
+stolen from https://justthedarnrecipe.com/breakfast-potatoes
 
 | Prep time | Cook time | Total Time | Servings |
 |-----------|-----------|------------|----------|

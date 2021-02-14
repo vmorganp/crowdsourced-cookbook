@@ -2,7 +2,7 @@
 a brief description about your food
 a link to your food if applicapable
 
-![Image of example](https://github.com/vmorganp/example/images/example.png)
+![Image of example](./images/example.png)
 
 | Prep time | Cook time | Total Time | Servings |
 |-----------|-----------|------------|----------|

@@ -1,5 +1,5 @@
- # Peanut Butter Cookies
-[source of recipe](https://justthedarnrecipe.com/bobs-peanut-butter-cookies)
+ # Tres Leches Cake
+[source of recipe](https://justthedarnrecipe.com/tres-leches-cake)
 
 | Prep time | Cook time | Total Time | Servings |
 | --------- | --------- | ---------- | -------- |

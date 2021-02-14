@@ -1,5 +1,5 @@
 # Gingersnaps
-[source of recipe](https://justthedarnrecipe.com/christmas-cookies)
+[source of recipe](https://justthedarnrecipe.com/gingersnap-cookies)
 
 | Prep time | Cook time | Total Time | Servings |
 |-----------|-----------|------------|----------|

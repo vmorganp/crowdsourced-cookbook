@@ -20,9 +20,9 @@ a link to your food if applicapable
 - [ ] ingredient8
 
 ## Directions
-- diretction1a
-- diretction2
-- diretction3
-- diretction4
-- diretction5
-- diretction5
+1. diretction1a
+2. diretction2
+3. diretction3
+4. diretction4
+5. diretction5
+6. diretction5

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "8c432b677665f57a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd9edfd4948ddfaa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa145b74fdeaa39d",
+    "type": "split",
+    "children": [
+      {
+        "id": "19d7633c82c3f1a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09df90a0e34f655f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "97867e4334de2b90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.51218795776367
+  },
+  "right": {
+    "id": "bb03c389575ec57f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec718a450722d2d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddb30b674ebf8ac3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cd9edfd4948ddfaa",
+  "lastOpenFiles": [
+    "README.md",
+    "Desert/Ginger Snaps.md",
+    "Side/Breakfast Potatoes.md",
+    "Desert/Lemon Meringue Pie.md",
+    "Drink/Frozen Mudslide.md",
+    "Desert/Banana Bread with Raisins and Walnuts.md",
+    "Desert/Poppy Seed Bread.md",
+    "Desert/Tres Leches Cake.md",
+    "Desert/Rum Balls.md",
+    "Desert/Pumpkin Bread.md"
+  ]
+}

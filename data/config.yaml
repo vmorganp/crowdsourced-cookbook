@@ -1,0 +1,27 @@
+name: Morgan Patterson
+# enableToc: true
+enableToc: false
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: true
+enableMermaid: true
+GitHubLink: https://github.com/vmorganp/crowdsource-bookbook/tree/hugo/content
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description:
+  A bunch of recipes and cookbook related stuff
+page_title:
+  "🍽️ Crowdsourced Cookbook"
+links:
+  - link_name: GitHub
+    link: https://github.com/vmorganp

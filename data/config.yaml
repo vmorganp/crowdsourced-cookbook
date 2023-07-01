@@ -13,7 +13,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/vmorganp/crowdsource-bookbook/tree/hugo/content
+GitHubLink: https://github.com/vmorganp/crowdsourced-cookbook/tree/master/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"

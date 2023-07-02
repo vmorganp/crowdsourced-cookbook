@@ -50,6 +50,4 @@ Servings: 8
 - Substitute two of the 5 cups of water for 2 cups chicken broth for more flavor.
 - Use 2 cans of carnation milk instead of heavy cream and regular milk (cuts down on calories from the heavy cream.)
 
-source:
-
-[[Unit Conversions]]
+source: Houlihans copycat

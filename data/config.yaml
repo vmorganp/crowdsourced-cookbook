@@ -8,7 +8,7 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: true
+enableFooter: false
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
@@ -25,3 +25,5 @@ page_title:
 links:
   - link_name: GitHub
     link: https://github.com/vmorganp
+  - link_name: Unit Conversions
+    link: /Unit-Conversions

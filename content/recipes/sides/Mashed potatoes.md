@@ -6,8 +6,11 @@ tags:
 weight: 0
 ---
 Prep: 5 minutes
+
 Cook: 20 minutes
+
 Total: 25 minutes
+
 Servings: 2
 
 # Ingredients

@@ -6,8 +6,11 @@ tags:
 weight: 0
 ---
 Prep: 20 minutes
+
 Cook: 70 minutes
+
 Total: 90 minutes
+
 Servings: 2 Loaves
 
 ![[attachments/pumpkinBread.png]]

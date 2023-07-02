@@ -6,7 +6,8 @@ tags:
 weight: 0
 ---
 Total: 10 minutes
-Servings: todo
+
+Servings: 2
 
 # Ingredients
 - [ ] salt

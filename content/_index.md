@@ -9,6 +9,6 @@ For when you want a recipe, not someone's life story
 
 # [All Recipes By Tag](tags/)
 
-# [[Common Substitutons]]
+# [[Common Substitutions]]
 
 # [[Unit Conversions]]
